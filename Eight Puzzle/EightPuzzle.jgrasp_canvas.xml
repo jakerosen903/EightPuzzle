@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Canvas xmlns="http://www.jgrasp.org">
+  <Language>Java</Language>
+  <ShowTypes>false</ShowTypes>
+  <Version>2</Version>
+  <Grid>
+    <Snap>true</Snap>
+    <Show>false</Show>
+  </Grid>
+  <Scope id="0">
+    <Name>makeChildren</Name>
+    <Signature>(LNode;)V</Signature>
+    <DeclaringType>puzzleSolver</DeclaringType>
+    <Depth>2</Depth>
+  </Scope>
+  <Frame>
+    <Bounds>
+      <AutoSize>true</AutoSize>
+      <X>100</X>
+      <Y>70</Y>
+      <W>119</W>
+      <H>142</H>
+    </Bounds>
+    <Viewer>
+      <ScopeID>0</ScopeID>
+      <Expression>`local java.util.LinkedList` current</Expression>
+      <ViewerClass>jgrasp_viewers.java__lang__Object_LinkedView</ViewerClass>
+    </Viewer>
+  </Frame>
+  <Size>
+    <W>720</W>
+    <H>450</H>
+  </Size>
+  <ESize>
+    <W>720</W>
+    <H>450</H>
+  </ESize>
+</Canvas>
